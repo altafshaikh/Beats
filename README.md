@@ -1,2 +1,2 @@
-# Beats
-Django app
+# Beats ~ Powered by Django
+
